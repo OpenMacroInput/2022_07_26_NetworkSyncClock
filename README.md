@@ -9,3 +9,6 @@ And that if the code is executed in Americal, India or the computer this one. Th
 
 Lot's of use to this tool. 
 But the main reason is to be able to make sync test in video game for video game tester and allows them to test bug that can only happened on precise timing in multiplayer.
+
+
+This code is not code yet. but is hight priority on my todo list after the core of my is refactored.
